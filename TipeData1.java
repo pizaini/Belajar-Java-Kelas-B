@@ -21,7 +21,8 @@ int c = 10;
 
 Konstatnta:
 final int a = 20;
-
+ 
+ini ditambah...... tgl 30 Des 2020
 */
 public class TipeData1{
 	public static void main (String[] abc){
